@@ -5,7 +5,8 @@
         <link>https://www.blogdetecnologia.com</link>
         <description>Últimas noticias y tendencias actuales en tecnología</description>
         <language>es</language>
-        <atom:link href="https://ivanescanciano.github.io/BlogTecnologia/RSS_Ivan.xml"rel="self" type="application/rss+xml" />
+        <atom:link href="https://ivanescanciano.github.io/BlogTecnologia/RSS_Ivan.xml"
+        rel="self" type="application/rss+xml" />
         <pubDate>Fri, 7 Mar 2025 11:07:00 GMT</pubDate>
         <lastBuildDate>Fri, 7 Mar 2025 11:07:00 GMT</lastBuildDate>
 
